@@ -1,7 +1,7 @@
 
 # StoreFlow - Inventory Management System 📦
 
-Welcome to StoreFlow, an Inventory Management System built to streamline the business operations. StoreFlow integrates powerful features with a user-friendly interface to provide you with a seamless inventory management experience. 🚀
+Welcome to StoreFlow, an Inventory Management System built to streamline the inventory operations. StoreFlow integrates powerful features with a user-friendly interface to provide you with a seamless inventory management experience. 🚀
 
 ## Features
 
