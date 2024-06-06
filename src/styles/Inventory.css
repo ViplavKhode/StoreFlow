@@ -1,0 +1,7 @@
+.hover-button {
+    display: none; /* Initially hide the button */
+  }
+  
+  .MainCard:hover .hover-button {
+    display: block; /* Show the button on hover */
+  }

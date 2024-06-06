@@ -1,0 +1,9 @@
+.data_grid_container{
+    border-radius: 5px;
+    border: 1px solid #e3e2e2;
+    max-width: 100%;
+}
+.black-row {
+    padding: 10px;
+    border-color: black;
+}
